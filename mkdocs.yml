@@ -1,1 +1,10 @@
-site_name: My Docs
+site_name: NextCloudPi Documentation
+theme: readthedocs
+pages:
+    - Главная страница руководства по NextCloudPi: index.md
+    - Общая справка по конфигурации: Configuration-Reference.md
+    - Как получить доступ и активировать NextCloudPi: How-to-access-NextCloudPi.md
+    - Удалённый доступ: How-to-access-from-outside-your-network.md
+    - Как настроить внешний USB-накопитель: How-to-configure-an-external-USB-drive-with-NextCloudPi.md
+    - Как настроить Let's Encrypt: How-to-configure-Lets-Encrypt-with-closed-ports-80-and-443.md
+
